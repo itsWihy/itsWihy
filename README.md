@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsWihy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java (not good at it :) )
+- 🌱 I’m currently learning java 
 - 📫 How to reach me Wihy#5369
 
 <!---
