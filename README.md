@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Wihy.
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java. 
+I code.
