@@ -18,6 +18,7 @@
 
 ## 🔗 Stats
 
- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=itsWihy&show_icons=true&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=itsWihy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 
 > *“Ever since he stopped believing in God, the sky was no longer the limit”* - Yashee Lavai
