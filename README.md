@@ -1,17 +1,18 @@
 # Wihy
 
-🎓 Currently getting my Computer Science degree 
+🎓 Currently working towards my Computer Science degree 
 
-🐧 Arch Linux + i3wm user
+🐧 Arch Linux 
 
 👷 Experience in:  
 - ☕ Java 
-- ⚙️ C++  
+- ⚙️ C/C++  
 - 🌐 Networking 
 
 💟 Also into:  
 - 🤖 FRC Robotics  
-- 🛠️ Minecraft Modding  
+- 🛠️ Minecraft Modding
+- 🪛 Bit exploitation
 - 🎮 Game Dev in CPP
 
 > *“Ever since he stopped believing in God, the sky was no longer the limit”* - Yashee Lavai
